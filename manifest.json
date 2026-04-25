@@ -1,0 +1,15 @@
+{
+  "short_name": "Wedding Invite",
+  "name": "Bhavuk & Vamica Wedding Invitation",
+  "icons": [
+    {
+      "src": "VB_logo.png",
+      "type": "image/png",
+      "sizes": "64x64 32x32 24x24 16x16 192x192 512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

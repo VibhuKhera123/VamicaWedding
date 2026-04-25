@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VibhuKhera123/VamicaWedding/static/css/main.6fb7a8fe.css",
+    "main.js": "/VibhuKhera123/VamicaWedding/static/js/main.bba2eb06.js",
+    "static/js/453.ef820ef7.chunk.js": "/VibhuKhera123/VamicaWedding/static/js/453.ef820ef7.chunk.js",
+    "index.html": "/VibhuKhera123/VamicaWedding/index.html",
+    "main.6fb7a8fe.css.map": "/VibhuKhera123/VamicaWedding/static/css/main.6fb7a8fe.css.map",
+    "main.bba2eb06.js.map": "/VibhuKhera123/VamicaWedding/static/js/main.bba2eb06.js.map",
+    "453.ef820ef7.chunk.js.map": "/VibhuKhera123/VamicaWedding/static/js/453.ef820ef7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fb7a8fe.css",
+    "static/js/main.bba2eb06.js"
+  ]
+}
