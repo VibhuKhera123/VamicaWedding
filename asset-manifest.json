@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/VibhuKhera123/VamicaWedding/static/css/main.6fb7a8fe.css",
-    "main.js": "/VibhuKhera123/VamicaWedding/static/js/main.bba2eb06.js",
+    "main.css": "/VibhuKhera123/VamicaWedding/static/css/main.c42c0492.css",
+    "main.js": "/VibhuKhera123/VamicaWedding/static/js/main.41fca912.js",
     "static/js/453.ef820ef7.chunk.js": "/VibhuKhera123/VamicaWedding/static/js/453.ef820ef7.chunk.js",
+    "static/media/Invite.png": "/VibhuKhera123/VamicaWedding/static/media/Invite.472aa50756bddd3bee36.png",
+    "static/media/Bhavuk.jpeg": "/VibhuKhera123/VamicaWedding/static/media/Bhavuk.73e6ef947d3236bbb5ef.jpeg",
+    "static/media/vamica.jpeg": "/VibhuKhera123/VamicaWedding/static/media/vamica.de9807eb10f2a525163c.jpeg",
     "index.html": "/VibhuKhera123/VamicaWedding/index.html",
-    "main.6fb7a8fe.css.map": "/VibhuKhera123/VamicaWedding/static/css/main.6fb7a8fe.css.map",
-    "main.bba2eb06.js.map": "/VibhuKhera123/VamicaWedding/static/js/main.bba2eb06.js.map",
+    "main.c42c0492.css.map": "/VibhuKhera123/VamicaWedding/static/css/main.c42c0492.css.map",
+    "main.41fca912.js.map": "/VibhuKhera123/VamicaWedding/static/js/main.41fca912.js.map",
     "453.ef820ef7.chunk.js.map": "/VibhuKhera123/VamicaWedding/static/js/453.ef820ef7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6fb7a8fe.css",
-    "static/js/main.bba2eb06.js"
+    "static/css/main.c42c0492.css",
+    "static/js/main.41fca912.js"
   ]
 }
