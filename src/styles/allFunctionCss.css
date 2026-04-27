@@ -565,7 +565,7 @@ img {
 }
 
 .intro-top-label {
-  font-size: clamp(8px, 2vw, 11px);
+  font-size: clamp(10px, 4vw, 14px);
   letter-spacing: clamp(3px, 1vw, 5px);
   text-transform: uppercase;
   color: rgba(201, 169, 110, .7);
@@ -607,7 +607,7 @@ img {
 }
 
 .intro-date {
-  font-size: clamp(10px, 2.5vw, 13px);
+  font-size: clamp(12px, 3.5vw, 15px);
   letter-spacing: clamp(2px, .8vw, 3px);
   text-transform: uppercase;
   color: rgba(201, 169, 110, .75);
@@ -760,7 +760,7 @@ img {
   display: inline-block;
   border: 1px solid var(--ch);
   padding: clamp(5px, 1vw, 7px) clamp(14px, 3vw, 24px);
-  font-size: clamp(8px, 1.8vw, 10px);
+  font-size: clamp(10px, 2.5vw, 12px);
   letter-spacing: clamp(2px, .8vw, 4px);
   text-transform: uppercase;
   color: var(--ch-d);
@@ -797,7 +797,7 @@ img {
 }
 
 .hero-parent {
-  font-size: clamp(10px, 2.2vw, 12px);
+  font-size: clamp(14px, 2.8vw, 16px);
   color: var(--muted);
   font-weight: 300;
   margin-top: 4px;
